@@ -1,0 +1,49 @@
+.headings {
+  background: -webkit-linear-gradient(#aa076b, #61045f);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  width: 70%;
+  position: absolute;
+  left: 17.5%;
+  top: 5.7%;
+  font-size: 4vw;
+}
+#mainDiv {
+  width: 800px;
+  height: 500px;
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  color: white;
+  background-color: black;
+}
+#mainRow {
+  margin-left: 8.5%;
+  margin-top: 18%;
+}
+.user {
+  height: 300px;
+  text-align: center;
+}
+.user:hover {
+  background: linear-gradient(#aa076b, #61045f);
+}
+.memberName {
+  position: absolute;
+
+  left: 12%;
+  font-size: 2vw;
+  background-color: black;
+  border: none;
+  background: -webkit-linear-gradient(#aa076b, #61045f);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  height: 300px;
+}
+.memberName:hover {
+  background-color: transparent;
+  background: white;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
