@@ -1,6 +1,6 @@
 import React from "react";
 import MainPage from "./MainPage";
-
+import ResponsiveCard from "./responsiveCards";
 class App extends React.Component {
   constructor(props) {
     super(props);
@@ -12,7 +12,8 @@ class App extends React.Component {
   render() {
     return (
       <div className="App">
-        <MainPage />
+        <ResponsiveCard />
+        {/* <MainPage /> */}
       </div>
     );
   }

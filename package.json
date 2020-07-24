@@ -7,6 +7,7 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "json-server": "^0.16.1",
     "moment": "^2.27.0",
     "react": "^16.13.1",
     "react-bootstrap": "^1.2.2",
@@ -39,5 +40,16 @@
   },
   "devDependencies": {
     "gh-pages": "^3.1.0"
+  },
+  "description": "<<<<<<< HEAD\r This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChaitraL99/uiToDisplayJsonData.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChaitraL99/uiToDisplayJsonData/issues"
   }
 }
