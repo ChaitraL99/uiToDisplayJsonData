@@ -1,0 +1,10 @@
+Simple web app to display data
+
+This application is built using React and other necessity libraries. It has a user Interface which displays a list of users. 
+
+Information on users is stored in a json format in a file called test_json.json.
+
+Clicking on a particular user will display a modal which consists of a date picker which allows us to pick a date and checks if the user had indulged in any activities 
+on that day. If yes then activity time will be mentioned else an appropriate error message will be displayed.
+
+
